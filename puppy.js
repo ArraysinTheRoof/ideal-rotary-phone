@@ -10,3 +10,8 @@ for (var i = 0; i < puppy.length; i++) {
 let kitty = "kitty";
 
 var cow = "moomoo";
+
+if(puppy.length > 2) {
+  console.log('large puppy')
+}
+
